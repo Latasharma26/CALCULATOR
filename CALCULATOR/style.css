@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.heading{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#output{
+    width: 90%;
+    border: 2px solid gray;
+    border-radius: 4px;
+    padding: 2%;
+    margin: 2%;
+}
+.container{
+    background-color:black;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10%;
+    border-radius: 4px;
+}
+.btn{
+   cursor: pointer;
+   background-color: gray; 
+font-size: 24px;
+text-align: center;
+border: 2px solid whitesmoke; 
+transition-duration: 0.4s;
+padding-left: 2%;
+margin-left: 1.5%;
+width: 100px;
+border-radius: 4px;
+margin-bottom: 2%;
+}
+.btn:hover {
+    background-color:whitesmoke /* Green */
+  }
